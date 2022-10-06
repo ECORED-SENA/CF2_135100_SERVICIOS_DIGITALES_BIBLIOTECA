@@ -1,14 +1,34 @@
 .banner-principal-decorativo
   &-1
-    animation: float1 3.5s ease-in-out infinite alternate
+    animation: float1 4.5s ease-in-out infinite alternate
     position: absolute
     top: 40%
-    right: 50%
+    left: 10%
+    width: 15%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 20%
+    left: 0%
+    width: 15%
+  &-3
+    animation: float2 6.8s ease-in-out infinite alternate
+    position: absolute
+    top: 10%
+    left: 16%
+    width: 15%
+  &-4
+    animation: float2 7.8s ease-in-out infinite alternate
+    position: absolute
+    top: 25%
+    right: 27%
+    width: 22%
+  &-5
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 70%
+    right: 34%
+    width: 15%
 
 
 @keyframes float1
@@ -17,3 +37,133 @@
 
   100%
     transform: translateY(0px)
+  
+@keyframes float2
+  0%
+    transform: translateX(20px)
+
+  100%
+    transform: translateX(0px)
+  
+.banner-interno__fondo
+  background-image: url("../assets/curso/portada/img01.png") !important
+
+.BGR01
+  background-color: #F5E8DF
+
+.BG02
+  background-color: #EBC9B1
+
+.BG03, .BGR03, .BGS03
+  background-color: #31313C
+
+.BGR04
+  background-color: #FD9827
+
+.BG05
+  background-color: #FBA442
+
+.BG06
+  background-color: #E6E9B3
+
+.BGS07
+  background-color: #FDB768
+
+.BGM08
+  background: linear-gradient(to top, #fff, #FBF8F5,#fff)
+
+.BG09
+  background-color: #EBD0BC
+
+.BG10
+  background-color: #FED19F
+
+.BGR11
+  background-color: #fff
+
+.BG12
+  background-color: #FFF0DE
+
+.BG13
+  background-color: #563A31
+
+.BGM14
+  background-color: #FCF8F4
+
+.BGR15
+  background-color: #F2F4CF
+
+.BGR01, .BGIMG01, .BGIMG02, .BGIMG03, .BGR03, .BGS03, .BGR04, .BGIMG05, .BGIMG07, .BGS07, .BGIMG08, .BGR11, .BGR15
+  border-radius: 15px
+
+.BGIMG01b
+  border-radius: 15px 15px 0 0
+
+.BGS03, .BGS07
+  height: 100%
+
+.BGR03, .BGR04
+  height: 220px
+  @media (max-width: $bp-max-lg)
+    height: 287px
+  @media (max-width: $bp-max-md)
+    height: 239px
+  
+.BGIMG05
+  height: 410px
+  @media (max-width: $bp-max-lg)
+    height: 433px
+
+.BGIMG01, .BGIMG01b
+  background-image: url("../assets/curso/tema1/img02.png")
+
+.BGIMG02
+  background-image: url("../assets/curso/tema1/img15.png")
+
+.BGIMG03
+  background-image: url("../assets/curso/tema1/img21.png")
+
+.BGIMG04
+  background-image: url("../assets/curso/tema1/img26.png")
+
+.BGIMG05
+  background-image: url("../assets/curso/tema1/img27.png")
+
+.BGIMG06
+  background-image: url("../assets/curso/tema1/img35.png")
+
+.BGIMG07
+  background-image: url("../assets/curso/tema1/img43.png")
+
+.BGIMG08
+  background-image: url("../assets/curso/tema2/img01.png")
+
+.img-infografica-b__modal
+  background-image: url("../assets/curso/tema1/img41.png")
+
+
+.BGIMG01, .BGIMG01b, .BGIMG02, .BGIMG03, .BGIMG04, .BGIMG05, .BGIMG06, .BGIMG07, .BGIMG08, .img-infografica-b__modal
+  background-size: cover 
+  background-repeat: no-repeat
+  background-position: center
+
+.BGIMG04, .BGM08, .BGIMG06, .BGM14
+  margin-inline: -3.2rem !important
+  @media (max-width: $bp-max-sm)
+    margin-inline: -1.4rem !important
+
+.tabs-a__tab
+  background-color: #E8E8E8
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  background-color: #C0C942
+  @media (max-width: $bp-max-xs)
+    width: 40px
+    height: 40px
+  
+.slyder-a__bullets__item
+  @media (max-width: $bp-max-xs)
+    margin: 0 7px
+  
+.img-infografica-b__modal__contenido div > *
+  color: #000 !important

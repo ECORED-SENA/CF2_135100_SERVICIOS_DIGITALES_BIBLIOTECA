@@ -1,7 +1,9 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
+    componenteFormativo:
+      'Recuperación de datos y registro en unidades de información digital',
+    descripcionCurso:
+      'Este componente aborda aspectos clave de la recuperación de datos, en tanto técnicas y procedimientos para el acceso a información y extracción de esta, almacenada en distintos medios o formatos digitales. Con el estudio de este componente, el aprendiz podrá asimilar y gestionar factores determinantes que facilitan o impiden la consulta y lectura del medio digital.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -12,6 +14,18 @@ export default {
       {
         clases: ['banner-principal-decorativo-2'],
         imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-3.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-4'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-4.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-5'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-5.svg'),
       },
     ],
   },
@@ -32,30 +46,65 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Medición y análisis de información digital',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
+            titulo: 'Datos y criterios de modificación',
             hash: 't_1_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.2',
+            titulo: 'Estructura de datos',
+            hash: 't_1_2',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.3',
+            titulo: 'Recursos digitales en diferentes formatos',
+            hash: 't_1_3',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.4',
+            titulo: 'Normativa',
+            hash: 't_1_4',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.5',
+            titulo: 'Tratamiento técnico de datos',
+            hash: 't_1_5',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.6',
+            titulo: 'Esquema de clasificación Dewey (para obras en general)',
+            hash: 't_1_6',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.7',
+            titulo:
+              'Esquema de clasificación local (para obras en soportes electrónicos)',
+            hash: 't_1_7',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.8',
+            titulo: 'Número Cutter',
+            hash: 't_1_8',
           },
         ],
       },
-
       {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Titulo de primer nivel',
-        desarrolloContenidos: true,
-      },
-      {
-        nombreRuta: 'tema3',
-        icono: 'far fa-file-alt',
-        numero: '3',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Informes de datos digitales',
         desarrolloContenidos: true,
       },
     ],
@@ -101,32 +150,100 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema: 'Medición y análisis de información digital',
+      referencia:
+        'Biblioteca Nacional de Colombia. (s. f.). Acceso al bibliotecario. Biblioteca Nacional.',
+      tipo: 'Página web',
+      link:
+        'https://bibliotecanacional.gov.co/es-co/servicios/en-la-rnbp/acceso-al-bibliotecario',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Normativa',
+      referencia:
+        'Blog de la Biblioteca de la Universidad Politécnica. (2009). Normas, procedimientos y políticas de la biblioteca. [Web log post]. Bibliopoli.',
+      tipo: 'Blog',
+      link:
+        'https://bibliopoli.wordpress.com/normas-procedimientos-y-politicas-de-la-biblioteca/',
     },
   ],
   glosario: [
     {
-      termino: '',
-      significado: '',
+      termino: 'Abstracto',
+      significado: 'resumen de un libro o artículo.',
     },
     {
-      termino: '<em></em>',
-      significado: '',
+      termino: 'Aprobado por expertos',
+      significado:
+        'este término se aplica exclusivamente a las revistas profesionales o académicas (<em>journals</em>) que aplica artículos previamente revisados por expertos en la materia.',
+    },
+    {
+      termino: 'Artículo',
+      significado: 'pieza publicada en un periódico o revista.',
+    },
+    {
+      termino: 'Base de datos',
+      significado:
+        'lista de fichas bibliográficas archivadas electrónicamente que se puede navegar y manipular. En muchos casos las bases de datos incluyen el texto completo de las obras. Las bibliotecas de ACC ofrecen más de 100 bases de datos con artículos de revistas, periódicos, y en algunos casos materiales de consulta y libros.',
+    },
+    {
+      termino: 'Bibliografía',
+      significado:
+        'lista de obras sobre un tema o utilizados en una investigación.',
+    },
+    {
+      termino: 'Biografía',
+      significado: 'obra que narra la vida de una persona.',
+    },
+    {
+      termino: 'Catálogo de la biblioteca',
+      significado:
+        'lista completa de todos los materiales (libros, revistas, videos, etc.) que tiene una biblioteca. Cada libro tiene récord bibliográfico en la lista. La Información se ingresa a graves de formatos electrónicos para la consulta o navegación en línea.',
+    },
+    {
+      termino: 'Diccionario de sinónimos',
+      significado:
+        'diccionario que agrupa palabras de significado igual o similar.',
+    },
+    {
+      termino: 'Escritorio de referencia',
+      significado:
+        'escritorio o estación donde el/la bibliotecario/ referente te ayuda a encontrar el libro o la información que buscas.',
+    },
+    {
+      termino: 'Ficha bibliográfica',
+      significado:
+        'cúmulo de datos que describen una obra. Siempre incluye título, autor y fecha entre otras cosas. Existen numerosos formatos. La más usada es la norma APA (American Psychological Association). Para aprender a hacer fichas bibliográficas en estos formatos.',
+    },
+    {
+      termino: 'Sistema decimal Dewey',
+      significado:
+        'sistema de organización y clasificación bibliográfica que se usa en las bibliotecas públicas (fue creado por Melvil Dewey).',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'Blog de la Biblioteca de la Universidad Politécnica. (2009). Normas, procedimientos y políticas de la biblioteca. [Web log post]. Bibliopoli.',
+      link:
+        'https://bibliopoli.wordpress.com/normas-procedimientos-y-politicas-de-la-biblioteca/,%20s.f',
+    },
+    {
+      referencia:
+        'Dewey, M. (2017). Sistema de clasificación decimal Dewey. Rojas Eberhard Editores.',
+    },
+    {
+      referencia:
+        'Ministerio de Cultura. (s. f.). Biblioteca en red. Biblioteca Nacional.',
+      link: 'https://bibliotecanacional.gov.co/es-co/bibliotecas-en-red',
+    },
+    {
+      referencia:
+        'Rodríguez, G. (2013). Descarte de material bibliográfico y guía para organizar espacios y recursos. Panamericana.',
+    },
+    {
+      referencia:
+        'Tramullas, J. (s. f.). Análisis preliminar de bibliotecas digitales en las universidades españolas.',
+      link: 'https://core.ac.uk/download/pdf/290472455.pdf',
     },
   ],
   creditos: {
@@ -144,6 +261,28 @@ export default {
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
+      {
+        nombre: 'Justino Rojas Cabrera',
+        cargo: 'Experto temático',
+        centro:
+          'Regional Huila - Centro de la Industria, la Empresa y los Servicios',
+      },
+      {
+        nombre: 'Fabián Leonardo Correa Díaz',
+        cargo: 'Diseñador Instruccional',
+        centro:
+          'Regional Norte de Santander - Centro de la Industria, la Empresa y los Servicios',
+      },
+      {
+        nombre: 'Carolina Coca Salazar',
+        cargo: 'Asesora Metodológica',
+        centro: 'Regional Distrito Capital- Centro de Diseño y Metrología',
+      },
+      {
+        nombre: 'José Gabriel Ortiz Abella',
+        cargo: 'Corrector de estilo',
+        centro: 'Regional Distrito Capital- Centro de Diseño y Metrología',
+      },
     ],
     desarrolloProducto: [
       {
@@ -153,7 +292,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Fabian Zarate',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
@@ -165,7 +304,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Diego Fernando Velasco Güiza',
         cargo: 'Desarrollo front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
@@ -178,16 +317,6 @@ export default {
       },
     ],
     gestoresRepositorio: [
-      {
-        nombre: 'Álvaro Andrés Angarita Ramirez',
-        cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios - Regional Tolima',
-      },
-      {
-        nombre: 'Daniel Felipe Varón Molina',
-        cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios - Regional Tolima',
-      },
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',
