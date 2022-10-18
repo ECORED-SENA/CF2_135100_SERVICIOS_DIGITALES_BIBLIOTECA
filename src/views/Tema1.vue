@@ -181,13 +181,13 @@
         .BGIMG05.p-4
           .row.justify-content-center.mb-5
             .col-4
-              img(src="@/assets/curso/tema1/img28.png")
+              img.img-w70(src="@/assets/curso/tema1/img28.png")
           .h4.text-white.text-center Formatos basados en texto
           p.text-white.text-center.mb-0 En estos formatos, el contenido esencialmente es textual. Los documentos basados en texto usan una variedad de códigos de marcado para guardar, procesar e interpretarlos, lo que en las bibliotecas digitales es vital. 
         .BGIMG05.p-4
           .row.justify-content-center.mb-5
             .col-4
-              img(src="@/assets/curso/tema1/img29.png")
+              img.img-w70(src="@/assets/curso/tema1/img29.png")
           .h4.text-white.text-center El marcado procesal
           p.text-white.text-center.mb-0 Este consta de códigos que contienen la información sobre cómo una aplicación específica debe procesar el documento. Actualmente, la mayoría de los sistemas electrónicos de publicación, como los procesadores de textos y los editores electrónicos, usan el marcado procesal.
         .BGIMG05.p-4
@@ -195,7 +195,7 @@
             .col-4
               img(src="@/assets/curso/tema1/img30.png")
           .h4.text-white.text-center El marcado de presentación
-          p.text-white.text-center.mb-0 Consta de códigos que describen las características gráficas, de diseño y de control de la página, tanto en la pantalla del monitor como en una página impresa. Una de las formas de codificación de presentación más usada es el HTML (Hyper Text Mark-up Language - Lenguaje de Marcado de Hipertexto).
+          p.text-white.text-center.mb-0 Consta de códigos que describen las características gráficas, de diseño y de control de la página, tanto en la pantalla del monitor como en una página impresa. Una de las formas de codificación de presentación más usada es el HTML (#[em Hyper Text Mark-up Language] - Lenguaje de Marcado de Hipertexto).
         .BGIMG05.p-4
           .row.justify-content-center.mb-5
             .col-4
@@ -218,7 +218,7 @@
                 img(src="@/assets/curso/tema1/img32.png")
               .col-9.p-4
                 .h4 ¡Atención!
-                p.mb-0 Algunos textos se encuentran en distintos formatos, con lave o sin clave de acceso.
+                p.mb-0 Algunos textos se encuentran en distintos formatos, con clave o sin clave de acceso.
 
     separador
     #t_1_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -316,7 +316,7 @@
                 p.mb-0 El servicio de reserva de material le permite solicitar, con antelación, un determinado número de materiales.
               .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
                 img(src="@/assets/curso/tema1/img37.png")
-            .row.justify-content-center.align-items-center(x="36.3%" y="36.2%" tooltip="Elaboración de bibliografías" numero="+")
+            .row.justify-content-center.align-items-center(x="92.5%" y="18.9%" tooltip="Elaboración de bibliografías" numero="+")
               .col-lg-5.order-lg-1.order-2
                 h5 Elaboración de bibliografías
                 p.mb-0 Información específica sobre un tema de investigación o de interés particular. Puede solicitar el servicio de elaboración de bibliografías, en el que tendrá acceso a listados bibliográficos y de referencias de contenidos digitales de las colecciones de la biblioteca.
@@ -328,7 +328,7 @@
                 p.mb-0 Mediante este servicio se brinda asesoría a investigadores, grupos de investigación o instituciones que requieren información especializada de colecciones, documentos, temáticas, autores, etc., que forman parte del catálogo de la biblioteca.
               .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
                 img(src="@/assets/curso/tema1/img39.png")
-            .row.justify-content-center.align-items-center(x="92.5%" y="18.9%" tooltip="Suministro de documentos" numero="+")
+            .row.justify-content-center.align-items-center(x="36.3%" y="36.2%" tooltip="Suministro de documentos" numero="+")
               .col-lg-5.order-lg-1.order-2
                 h5 Suministro de documentos
                 p.mb-0 Se requieren reproducciones digitales de documentos que forman parte de las colecciones de la biblioteca, que no son de acceso libre y gratuito en centro de información; se pueden solicitar teniendo en cuenta las normas legales sobre los derechos de autor.
@@ -586,7 +586,7 @@
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 710
                       td(style="background-color: #FFFAF4; width: 20%;") Urbanismo y arquitectura del paisaje
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 760
-                      td(style="background-color: #FFFAF4; width: 20%;") Artes gráficas; grabados
+                      td(style="background-color: #FFFAF4; width: 20%;") Artes gráficas, grabados
                     tr
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 720
                       td(style="background-color: #FFFAF4; width: 20%;") Arquitectura
@@ -594,7 +594,7 @@
                       td(style="background-color: #FFFAF4; width: 20%;") Fotografía y fotografías
                     tr
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 730
-                      td(style="background-color: #FFFAF4; width: 20%;") Artes plásticas; escultura
+                      td(style="background-color: #FFFAF4; width: 20%;") Artes plásticas, escultura
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 780
                       td(style="background-color: #FFFAF4; width: 20%;") Música
                     tr
@@ -646,7 +646,7 @@
                   tbody
                     tr
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 910
-                      td(style="background-color: #FFFAF4; width: 20%;") Geografía; viajes
+                      td(style="background-color: #FFFAF4; width: 20%;") Geografía, viajes
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 960
                       td(style="background-color: #FFFAF4; width: 20%;") Historia de áfrica
                     tr
@@ -678,7 +678,7 @@
       .col-lg-7.order-lg-1.order-2(data-aos="fade-right")
         p En algunas áreas del conocimiento se ha establecido un sistema de clasificación local, constituido por códigos de letras, números, o por ambos. Se aplica a los diferentes géneros literarios (novela/cuento, teatro y poesía), biografías individuales y colectivas, tanto generales como infantiles y juveniles.
         .BG12.p-4
-          p.mb-0 En el contexto de las bibliotecas digitales, esta medición ha de realizarse y analizarse desde la estructuración del centro de información y las colecciones bibliográficas con que cuenta, actualmente, la biblioteca, y con las cuales establece, desde luego, su oferta de servicios digitales.
+          p.mb-0 Así mismo, el sistema de clasificación local aplica para las obras de ficción infantiles como los cuentos, las fábulas, los mitos y leyendas, las poesías y canciones y el teatro, para las cuales también es utilizado, adicionalmente, un código constituido por cintas de colores.
       .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src="@/assets/curso/tema1/img45.png")
 

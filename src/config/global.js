@@ -225,7 +225,7 @@ export default {
       referencia:
         'Blog de la Biblioteca de la Universidad Politécnica. (2009). Normas, procedimientos y políticas de la biblioteca. [Web log post]. Bibliopoli.',
       link:
-        'https://bibliopoli.wordpress.com/normas-procedimientos-y-politicas-de-la-biblioteca/,%20s.f',
+        'https://bibliopoli.wordpress.com/normas-procedimientos-y-politicas-de-la-biblioteca/',
     },
     {
       referencia:
@@ -310,8 +310,8 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Validación de diseño y contenido',
+        nombre: 'Maria Eugenia Mejia Lopez',
+        cargo: 'Validación de contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
