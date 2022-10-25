@@ -4,7 +4,7 @@ export default {
       'Recuperación de datos y registro en unidades de información digital',
     descripcionCurso:
       'Este componente aborda aspectos clave de la recuperación de datos, en tanto técnicas y procedimientos para el acceso a información y extracción de esta, almacenada en distintos medios o formatos digitales. Con el estudio de este componente, el aprendiz podrá asimilar y gestionar factores determinantes que facilitan o impiden la consulta y lectura del medio digital.',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {

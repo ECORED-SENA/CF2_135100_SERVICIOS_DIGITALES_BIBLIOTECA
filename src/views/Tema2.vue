@@ -42,7 +42,7 @@
       .col-lg-4.col-8.mb-lg-0.mb-4
         img(src="@/assets/curso/tema2/img03.png")
       .col-lg-8
-        AcordionA(tipo="b" clase-tarjeta="BGR15")
+        AcordionA(tipo="b" clase-tarjeta="tarjeta BGR15")
           div(titulo="Informe de resultados estadísticos para servicios de biblioteca")
             p.mb-0 Compilación de información recopilada de acuerdo con los servicios que se prestan dentro de la biblioteca para analizar los servicios que se prestan al público en general.
           div(titulo="Informe de listado de entrega y salida de material bibliográfico")

@@ -26,54 +26,54 @@
         SlyderF.mb-5(columnas="col-lg-4 col-md-6")
           .BGR03.p-4
             .row.justify-content-center
-              .col-6
+              .col-8
                 img(src="@/assets/curso/tema1/img04.png")
-            p.text-white 1. Revisiones de la bibliografía existente, revisiones de bases de datos.
+            p.text-center.text-white 1. Revisiones de la bibliografía existente, revisiones de bases de datos.
           .BGR04.p-4
             .row.justify-content-center
-              .col-6
+              .col-8
                 img(src="@/assets/curso/tema1/img05.png")
-            p.mb-0 2. Organización legal de las bibliotecas digitales.
+            p.text-center.mb-0 2. Organización legal de las bibliotecas digitales.
           .BGR03.p-4
             .row.justify-content-center
-              .col-6
+              .col-8
                 img(src="@/assets/curso/tema1/img06.png")
-            p.text-white 3. Modelos para la planificación y desarrollo de bibliotecas digitales.
+            p.text-center.text-white 3. Modelos para la planificación y desarrollo de bibliotecas digitales.
           .BGR04.p-4
             .row.justify-content-center
-              .col-6
+              .col-8
                 img(src="@/assets/curso/tema1/img07.png")
-            p.mb-0 4. Preservación digital, digitalización.
+            p.text-center.mb-0 4. Preservación digital, digitalización.
           .BGR03.p-4
             .row.justify-content-center
-              .col-6
+              .col-8
                 img(src="@/assets/curso/tema1/img08.png")
-            p.text-white 5. Redes de contenido.
+            p.text-center.text-white 5. Redes de contenido.
           .BGR04.p-4
             .row.justify-content-center
-              .col-6
+              .col-8
                 img(src="@/assets/curso/tema1/img09.png")
-            p.mb-0 6. Usuarios de bibliotecas digitales.
+            p.text-center.mb-0 6. Usuarios de bibliotecas digitales.
           .BGR03.p-4
             .row.justify-content-center
-              .col-6
+              .col-8
                 img(src="@/assets/curso/tema1/img10.png")
-            p.text-white 7. Comunidades virtuales.
+            p.text-center.text-white 7. Comunidades virtuales.
           .BGR04.p-4
             .row.justify-content-center
-              .col-6
+              .col-8
                 img(src="@/assets/curso/tema1/img11.png")
-            p.mb-0 8. Arquitectura de sistemas de bibliotecas digitales.
+            p.text-center.mb-0 8. Arquitectura de sistemas de bibliotecas digitales.
           .BGR03.p-4
             .row.justify-content-center
-              .col-6
+              .col-8
                 img(src="@/assets/curso/tema1/img12.png")
-            p.text-white Estudios de #[i software].
+            p.text-center.text-white 9. Estudios de #[i software].
           .BGR04.p-4
             .row.justify-content-center
-              .col-6
+              .col-8
                 img(src="@/assets/curso/tema1/img13.png")
-            p.mb-0 Normas y estándares para bibliotecas digitales.
+            p.text-center.mb-0 10. Normas y estándares para bibliotecas digitales.
 
     separador
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -125,41 +125,42 @@
           .h4 Validez del modelo
           p.mb-4 Este principio asegura la validez cualitativa del modelo, así como su transformación y adecuación.
 
-    p.mb-5 El siguiente es un ejemplo de modelo de análisis. El esquema muestra el modelo de análisis Cabdu (Criterios de Análisis en Bibliotecas Digitales Universitarias):
+    .BGM16.p-md-5.p-4.mb-4 
+      p.mb-5 El siguiente es un ejemplo de modelo de análisis. El esquema muestra el modelo de análisis Cabdu (Criterios de Análisis en Bibliotecas Digitales Universitarias):
 
-    .row.justify-content-center.mb-4
-      .col-lg-10.BGIMG03.p-4
-        .row.justify-content-center.align-items-center
-          .col-lg-5.col-10.mb-lg-0.mb-4(data-aos="flip-up")
-            .row.justify-content-center.mb-4
-              .col-10
-                img(src="@/assets/curso/tema1/img22.png")
-          .col-lg-7(data-aos="fade-left")
-            .titulo-sexto.color-acento-contenido.mb-4
-              h5 Figura 1
-              span Modelo de análisis CABDU
-            figure
-              img(src="@/assets/curso/tema1/img23.svg")
+      .row.justify-content-center.mb-4
+        .col-lg-10.BGIMG03.p-4
+          .row.justify-content-center.align-items-center
+            .col-lg-5.col-10.mb-lg-0.mb-4(data-aos="flip-up")
+              .row.justify-content-center.mb-4
+                .col-lg-10.col-8
+                  img(src="@/assets/curso/tema1/img22.png")
+            .col-lg-7(data-aos="fade-left")
+              .titulo-sexto.color-acento-contenido.mb-4
+                h5 Figura 1
+                span Modelo de análisis CABDU
+              figure
+                img(src="@/assets/curso/tema1/img23.svg")
 
-    separador
-    #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 1.2 Estructura de datos  
-    
-    .row.justify-content-center.align-items-center.mb-5
-      .col-lg-7.order-lg-1.order-2(data-aos="fade-right")
-        p Una base de datos es un conjunto de información registrada y almacenada, sistemáticamente, para su posterior uso. En este sentido, la biblioteca puede considerarse una base de datos, compuesta en su mayoría por documentos y textos impresos o digitales e indexados para la consulta de usuarios.
-        .row.align-items-center.BG06.mb-4
-          .col-1.px-0
-            img(src="@/assets/curso/temas/img02.png")
-          .col-11.p-3
-            p.mb-0 Las estructuras de datos que, además, permiten organizar la información de manera eficiente, aportan también al diseño de soluciones o de mecanismos de consulta de esta. Es así como las estructuras de datos pueden establecerse por áreas.
-        p.mb-0 Para ampliar los saberes sobre las estructuras de datos; <span style="color:#FD9827"><b>se invita a prestar atención al video que se muestra enseguida y llevar registro de lo más destacado en la libreta personal de apuntes.</b></span>
-      .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-        img(src="@/assets/curso/tema1/img24.png")
+      separador
+      #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+        h2 1.2 Estructura de datos  
+      
+      .row.justify-content-center.align-items-center.mb-5
+        .col-lg-7.order-lg-1.order-2(data-aos="fade-right")
+          p Una base de datos es un conjunto de información registrada y almacenada, sistemáticamente, para su posterior uso. En este sentido, la biblioteca puede considerarse una base de datos, compuesta en su mayoría por documentos y textos impresos o digitales e indexados para la consulta de usuarios.
+          .row.align-items-center.BG06.mb-4
+            .col-1.px-0
+              img(src="@/assets/curso/temas/img02.png")
+            .col-11.p-3
+              p.mb-0 Las estructuras de datos que, además, permiten organizar la información de manera eficiente, aportan también al diseño de soluciones o de mecanismos de consulta de esta. Es así como las estructuras de datos pueden establecerse por áreas.
+          p.mb-0 Para ampliar los saberes sobre las estructuras de datos; <span style="color:#FD9827"><b>se invita a prestar atención al video que se muestra enseguida y llevar registro de lo más destacado en la libreta personal de apuntes.</b></span>
+        .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
+          img(src="@/assets/curso/tema1/img24.png")
 
-    figure(data-aos="zoom-in")
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figure(data-aos="zoom-in")
+        .video
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     separador
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -224,7 +225,7 @@
     #t_1_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.4	Normativa
 
-    .BGM08.p-md-5.p-4.mb-4  
+    .BGM08.px-md-5.px-4.mb-4  
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-7.order-lg-1.order-2(data-aos="fade-right")
           .row.align-items-center.BG06.mb-4
@@ -302,7 +303,7 @@
       .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src="@/assets/curso/tema1/img34.png")
 
-    .BGIMG07.p-md-5.p-4.mb-4
+    .BGIMG09.p-md-5.p-4.mb-4
       .row.justify-content-center
         .col-lg-10(data-aos="zoom-in")
           ImagenInfograficaB.color-acento-botones.mb-5
@@ -311,28 +312,28 @@
                 img(src='@/assets/curso/tema1/img36.svg')
 
             .row.justify-content-center.align-items-center(x="23.2%" y="6.3%" tooltip="Reserva de material" numero="+")
-              .col-lg-5.order-lg-1.order-2
+              .col-lg-6.order-lg-1.order-2
                 h5 Reserva de material
                 p.mb-0 El servicio de reserva de material le permite solicitar, con antelación, un determinado número de materiales.
-              .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
+              .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
                 img(src="@/assets/curso/tema1/img37.png")
             .row.justify-content-center.align-items-center(x="92.5%" y="18.9%" tooltip="Elaboración de bibliografías" numero="+")
-              .col-lg-5.order-lg-1.order-2
+              .col-lg-6.order-lg-1.order-2
                 h5 Elaboración de bibliografías
                 p.mb-0 Información específica sobre un tema de investigación o de interés particular. Puede solicitar el servicio de elaboración de bibliografías, en el que tendrá acceso a listados bibliográficos y de referencias de contenidos digitales de las colecciones de la biblioteca.
-              .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
+              .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
                 img(src="@/assets/curso/tema1/img38.png")
             .row.justify-content-center.align-items-center(x="54%" y="40.2%" tooltip="Asesorías personalizadas" numero="+")
-              .col-lg-5.order-lg-1.order-2
+              .col-lg-6.order-lg-1.order-2
                 h5 Asesorías personalizadas
                 p.mb-0 Mediante este servicio se brinda asesoría a investigadores, grupos de investigación o instituciones que requieren información especializada de colecciones, documentos, temáticas, autores, etc., que forman parte del catálogo de la biblioteca.
-              .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
+              .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
                 img(src="@/assets/curso/tema1/img39.png")
             .row.justify-content-center.align-items-center(x="36.3%" y="36.2%" tooltip="Suministro de documentos" numero="+")
-              .col-lg-5.order-lg-1.order-2
+              .col-lg-6.order-lg-1.order-2
                 h5 Suministro de documentos
                 p.mb-0 Se requieren reproducciones digitales de documentos que forman parte de las colecciones de la biblioteca, que no son de acceso libre y gratuito en centro de información; se pueden solicitar teniendo en cuenta las normas legales sobre los derechos de autor.
-              .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
+              .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
                 img(src="@/assets/curso/tema1/img40.png")
 
 
@@ -343,7 +344,7 @@
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-7.order-lg-1.order-2(data-aos="fade-right")
         p El sistema de clasificación Dewey es un mecanismo pensado por <span style="color:#FD9827"><b>Melvil Dewey</b></span> que consiste en una división del conocimiento en 10 grandes categorías. Este sistema ofrece la posibilidad de, a su vez, dividir cada categoría en cuantas subdivisiones fuere necesario y, entonces, comprender el conocimiento como un mapa organizado de temas conexos y clasificados.
-        .row.align-items-center.BG03.mb-4
+        .row.align-items-center.BG17.mb-4
           .col-1.px-0
             img(src="@/assets/curso/temas/img03.png")
           .col-11.p-3
@@ -354,7 +355,7 @@
     p A continuación, se invita a conocer más aspectos sobre el <span style="color:#FD9827"><b>sistema de clasificación Dewey</b></span> que propone la organización y clasificación de las unidades de información en las bibliotecas.
 
     .row.justify-content-center.align-items-center.BGIMG07.p-4.mb-4
-      .col-lg-5.col-10.mb-lg-0.mb-4(data-aos="fade-right")
+      .col-lg-5.col-md-8.col-10.mb-lg-0.mb-4(data-aos="fade-right")
         img(src="@/assets/curso/tema1/img44.png")
       .col-lg-7(data-aos="fade-left")
         .BGR11.p-4
@@ -682,12 +683,12 @@
       .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src="@/assets/curso/tema1/img45.png")
 
-    .BG03.px-0.mb-4
+    .BGR03A.px-0.mb-4
       .row.align-items-center(data-aos="flip-up")
         .col-2
-          img(src="@/assets/curso/tema1/img32.png")
+          img.img-w60(src="@/assets/curso/tema1/img32.png")
         .col-10.p-4
-          .h4 <span style="color:#FD9827">¡Nota!</span>
+          .h4.text-white ¡Nota!
           p.text-white.mb-0 Igualmente, se puede emplear la clasificación local para los materiales audiovisuales y los recursos electrónicos.
 
     separador
@@ -703,10 +704,10 @@
         img(src="@/assets/curso/tema1/img47.svg")
     .BGM14.pt-0.px-md-5.px-4.pb-4
       .row.BG13.align-items-center.mb-4(data-aos="flip-up")
-        .col-lg-1.col-2.px-0
-          img.w-75(src="@/assets/curso/temas/img03.png")
+        .col-lg-1.col-2.px-0.py-2
+          img.w-50(src="@/assets/curso/temas/img03.png")
         .col
-          p.text-white.text-center El número Cutter se construye combinando las primeras letras del apellido del autor con un número de la Tabla Cutter.
+          p.text-white.text-center.mb-0 El número Cutter se construye combinando las primeras letras del apellido del autor con un número de la Tabla Cutter.
     
       .row.justify-content-center.mb-4
         .col-lg-6.col-10.mb-lg-0.mb-4(data-aos="fade-right")
