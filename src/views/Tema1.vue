@@ -126,7 +126,7 @@
           p.mb-4 Este principio asegura la validez cualitativa del modelo, así como su transformación y adecuación.
 
     .BGM16.p-md-5.p-4.mb-4 
-      p.mb-5 El siguiente es un ejemplo de modelo de análisis. El esquema muestra el modelo de análisis Cabdu (Criterios de Análisis en Bibliotecas Digitales Universitarias):
+      p.mb-5 El siguiente es un ejemplo de modelo de análisis. El esquema muestra el modelo de análisis CABDU (Criterios de Análisis en Bibliotecas Digitales Universitarias):
 
       .row.justify-content-center.mb-4
         .col-lg-10.BGIMG03.p-4
@@ -368,27 +368,27 @@
                   tbody
                     tr
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 010
-                      td(style="background-color: #FFFAF4; width: 20%;") Bibliografía
+                      td(style="background-color: #FFFAF4; width: 20%;") Bibliografía.
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 060
-                      td(style="background-color: #FFFAF4; width: 20%;") Organizaciones y museografía
+                      td(style="background-color: #FFFAF4; width: 20%;") Organizaciones y museografía.
                     tr
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 020
-                      td(style="background-color: #FFFAF4; width: 20%;") Bibliotecología e informática
+                      td(style="background-color: #FFFAF4; width: 20%;") Bibliotecología e informática.
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 070
-                      td(style="background-color: #FFFAF4; width: 20%;") Periodismo, editoriales, diarios
+                      td(style="background-color: #FFFAF4; width: 20%;") Periodismo, editoriales, diarios.
                     tr
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 030
-                      td(style="background-color: #FFFAF4; width: 20%;") Enciclopedias generales
+                      td(style="background-color: #FFFAF4; width: 20%;") Enciclopedias generales.
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 080
-                      td(style="background-color: #FFFAF4; width: 20%;") Colecciones generales
+                      td(style="background-color: #FFFAF4; width: 20%;") Colecciones generales.
                     tr
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 040
                       td(style="background-color: #FFFAF4; width: 20%;") Este número no tiene ningún uso.
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 090
-                      td(style="background-color: #FFFAF4; width: 20%;") Manuscritos y libros raros
+                      td(style="background-color: #FFFAF4; width: 20%;") Manuscritos y libros raros.
                     tr
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 050
-                      td(style="background-color: #FFFAF4; width: 20%;") Publicaciones en serie
+                      td(style="background-color: #FFFAF4; width: 20%;") Publicaciones en serie.
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 
                       td(style="background-color: #FFFAF4; width: 20%;")
             .row.justify-content-center
@@ -399,27 +399,27 @@
                   tbody
                     tr
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 110
-                      td(style="background-color: #FFFAF4; width: 20%;") Metafísica
+                      td(style="background-color: #FFFAF4; width: 20%;") Metafísica.
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 160
-                      td(style="background-color: #FFFAF4; width: 20%;") Lógica
+                      td(style="background-color: #FFFAF4; width: 20%;") Lógica.
                     tr
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 120
-                      td(style="background-color: #FFFAF4; width: 20%;") Conocimiento, causa, fin, hombre
+                      td(style="background-color: #FFFAF4; width: 20%;") Conocimiento, causa, fin, hombre.
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 170
-                      td(style="background-color: #FFFAF4; width: 20%;") Ética (filosofía moral)
+                      td(style="background-color: #FFFAF4; width: 20%;") Ética (filosofía moral).
                     tr
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 130
-                      td(style="background-color: #FFFAF4; width: 20%;") Parapsicología, ocultismo
+                      td(style="background-color: #FFFAF4; width: 20%;") Parapsicología, ocultismo.
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 180
-                      td(style="background-color: #FFFAF4; width: 20%;") Filosofía antigua, medieval, oriental
+                      td(style="background-color: #FFFAF4; width: 20%;") Filosofía antigua, medieval, oriental.
                     tr
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 140
-                      td(style="background-color: #FFFAF4; width: 20%;") Puntos de vista filosóficos
+                      td(style="background-color: #FFFAF4; width: 20%;") Puntos de vista filosóficos.
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 190
-                      td(style="background-color: #FFFAF4; width: 20%;") Filosofía moderna occidental
+                      td(style="background-color: #FFFAF4; width: 20%;") Filosofía moderna occidental.
                     tr
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 150
-                      td(style="background-color: #FFFAF4; width: 20%;") Psicología
+                      td(style="background-color: #FFFAF4; width: 20%;") Psicología.
                       td(style="background-color: #FFF0DE; width: 5%;").text-center
                       td(style="background-color: #FFFAF4; width: 20%;")
             .row.justify-content-center
@@ -430,27 +430,27 @@
                   tbody
                     tr
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 210
-                      td(style="background-color: #FFFAF4; width: 20%;") Religión natural
+                      td(style="background-color: #FFFAF4; width: 20%;") Religión natural.
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 260
-                      td(style="background-color: #FFFAF4; width: 20%;") Teología social y eclesiología
+                      td(style="background-color: #FFFAF4; width: 20%;") Teología social y eclesiología.
                     tr
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 220
-                      td(style="background-color: #FFFAF4; width: 20%;") Biblia
+                      td(style="background-color: #FFFAF4; width: 20%;") Biblia.
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 270
-                      td(style="background-color: #FFFAF4; width: 20%;") Historia y geografía de la iglesia
+                      td(style="background-color: #FFFAF4; width: 20%;") Historia y geografía de la iglesia.
                     tr
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 230
-                      td(style="background-color: #FFFAF4; width: 20%;") Teología cristiana
+                      td(style="background-color: #FFFAF4; width: 20%;") Teología cristiana.
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 280
-                      td(style="background-color: #FFFAF4; width: 20%;") Credos de la iglesia cristiana
+                      td(style="background-color: #FFFAF4; width: 20%;") Credos de la iglesia cristiana.
                     tr
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 240
-                      td(style="background-color: #FFFAF4; width: 20%;") Moral y prácticas cristianas
+                      td(style="background-color: #FFFAF4; width: 20%;") Moral y prácticas cristianas.
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 290
-                      td(style="background-color: #FFFAF4; width: 20%;") Otras religiones
+                      td(style="background-color: #FFFAF4; width: 20%;") Otras religiones.
                     tr
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 250
-                      td(style="background-color: #FFFAF4; width: 20%;") Iglesia local y órdenes religiosas
+                      td(style="background-color: #FFFAF4; width: 20%;") Iglesia local y órdenes religiosas.
                       td(style="background-color: #FFF0DE; width: 5%;").text-center
                       td(style="background-color: #FFFAF4; width: 20%;")
             .row.justify-content-center
@@ -461,27 +461,27 @@
                   tbody
                     tr
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 310
-                      td(style="background-color: #FFFAF4; width: 20%;") Estadística
+                      td(style="background-color: #FFFAF4; width: 20%;") Estadística.
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 360
-                      td(style="background-color: #FFFAF4; width: 20%;") Patología y servicio sociales
+                      td(style="background-color: #FFFAF4; width: 20%;") Patología y servicio sociales.
                     tr
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 320
-                      td(style="background-color: #FFFAF4; width: 20%;") Ciencia política
+                      td(style="background-color: #FFFAF4; width: 20%;") Ciencia política.
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 370
-                      td(style="background-color: #FFFAF4; width: 20%;") Educación
+                      td(style="background-color: #FFFAF4; width: 20%;") Educación.
                     tr
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 330
-                      td(style="background-color: #FFFAF4; width: 20%;") Economía
+                      td(style="background-color: #FFFAF4; width: 20%;") Economía.
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 380
-                      td(style="background-color: #FFFAF4; width: 20%;") Comercio
+                      td(style="background-color: #FFFAF4; width: 20%;") Comercio.
                     tr
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 340
-                      td(style="background-color: #FFFAF4; width: 20%;") Derecho
+                      td(style="background-color: #FFFAF4; width: 20%;") Derecho.
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 390
-                      td(style="background-color: #FFFAF4; width: 20%;") Costumbres y folklore
+                      td(style="background-color: #FFFAF4; width: 20%;") Costumbres y folklore.
                     tr
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 350
-                      td(style="background-color: #FFFAF4; width: 20%;") Administración pública
+                      td(style="background-color: #FFFAF4; width: 20%;") Administración pública.
                       td(style="background-color: #FFF0DE; width: 5%;").text-center
                       td(style="background-color: #FFFAF4; width: 20%;")
             .row.justify-content-center
@@ -492,27 +492,27 @@
                   tbody
                     tr
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 410
-                      td(style="background-color: #FFFAF4; width: 20%;") Lingüística
+                      td(style="background-color: #FFFAF4; width: 20%;") Lingüística.
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 460
-                      td(style="background-color: #FFFAF4; width: 20%;") Español y portugués
+                      td(style="background-color: #FFFAF4; width: 20%;") Español y portugués.
                     tr
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 420
-                      td(style="background-color: #FFFAF4; width: 20%;") Inglés y anglosajón
+                      td(style="background-color: #FFFAF4; width: 20%;") Inglés y anglosajón.
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 470
-                      td(style="background-color: #FFFAF4; width: 20%;") Lenguas itálicas; latín
+                      td(style="background-color: #FFFAF4; width: 20%;") Lenguas itálicas; latín.
                     tr
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 430
-                      td(style="background-color: #FFFAF4; width: 20%;") Lenguas germánicas; alemán
+                      td(style="background-color: #FFFAF4; width: 20%;") Lenguas germánicas; alemán.
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 480
-                      td(style="background-color: #FFFAF4; width: 20%;") Lenguas helénicas; griego clásico
+                      td(style="background-color: #FFFAF4; width: 20%;") Lenguas helénicas; griego clásico.
                     tr
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 440
-                      td(style="background-color: #FFFAF4; width: 20%;") Lenguas romances; francés
+                      td(style="background-color: #FFFAF4; width: 20%;") Lenguas romances; francés.
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 490
-                      td(style="background-color: #FFFAF4; width: 20%;") Otras lenguas
+                      td(style="background-color: #FFFAF4; width: 20%;") Otras lenguas.
                     tr
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 450
-                      td(style="background-color: #FFFAF4; width: 20%;") Italiano, rumano, rético
+                      td(style="background-color: #FFFAF4; width: 20%;") Italiano, rumano, rético.
                       td(style="background-color: #FFF0DE; width: 5%;").text-center
                       td(style="background-color: #FFFAF4; width: 20%;")
             .row.justify-content-center
@@ -523,27 +523,27 @@
                   tbody
                     tr
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 510
-                      td(style="background-color: #FFFAF4; width: 20%;") Matemáticas
+                      td(style="background-color: #FFFAF4; width: 20%;") Matemáticas.
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 560
-                      td(style="background-color: #FFFAF4; width: 20%;") Paleontología
+                      td(style="background-color: #FFFAF4; width: 20%;") Paleontología.
                     tr
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 520
-                      td(style="background-color: #FFFAF4; width: 20%;") Astronomía y ciencias afines
+                      td(style="background-color: #FFFAF4; width: 20%;") Astronomía y ciencias afines.
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 570
-                      td(style="background-color: #FFFAF4; width: 20%;") Ciencias biológicas
+                      td(style="background-color: #FFFAF4; width: 20%;") Ciencias biológicas.
                     tr
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 530
-                      td(style="background-color: #FFFAF4; width: 20%;") Física
+                      td(style="background-color: #FFFAF4; width: 20%;") Física.
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 580
-                      td(style="background-color: #FFFAF4; width: 20%;") Ciencias botánicas
+                      td(style="background-color: #FFFAF4; width: 20%;") Ciencias botánicas.
                     tr
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 540
-                      td(style="background-color: #FFFAF4; width: 20%;") Química y ciencias afines
+                      td(style="background-color: #FFFAF4; width: 20%;") Química y ciencias afines.
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 590
-                      td(style="background-color: #FFFAF4; width: 20%;") Ciencias zoológicas
+                      td(style="background-color: #FFFAF4; width: 20%;") Ciencias zoológicas.
                     tr
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 550
-                      td(style="background-color: #FFFAF4; width: 20%;") Geociencias
+                      td(style="background-color: #FFFAF4; width: 20%;") Geociencias.
                       td(style="background-color: #FFF0DE; width: 5%;").text-center
                       td(style="background-color: #FFFAF4; width: 20%;")
             .row.justify-content-center
@@ -554,27 +554,27 @@
                   tbody
                     tr
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 610
-                      td(style="background-color: #FFFAF4; width: 20%;") Ciencias médicas
+                      td(style="background-color: #FFFAF4; width: 20%;") Ciencias médicas.
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 660
-                      td(style="background-color: #FFFAF4; width: 20%;") Química industrial
+                      td(style="background-color: #FFFAF4; width: 20%;") Química industrial.
                     tr
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 620
-                      td(style="background-color: #FFFAF4; width: 20%;") Ingeniería y operaciones afines
+                      td(style="background-color: #FFFAF4; width: 20%;") Ingeniería y operaciones afines.
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 670
-                      td(style="background-color: #FFFAF4; width: 20%;") Manufacturas
+                      td(style="background-color: #FFFAF4; width: 20%;") Manufacturas.
                     tr
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 630
-                      td(style="background-color: #FFFAF4; width: 20%;") Agricultura y tecnologías afines
+                      td(style="background-color: #FFFAF4; width: 20%;") Agricultura y tecnologías afines.
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 680
-                      td(style="background-color: #FFFAF4; width: 20%;") Manufacturas varias
+                      td(style="background-color: #FFFAF4; width: 20%;") Manufacturas varias.
                     tr
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 640
-                      td(style="background-color: #FFFAF4; width: 20%;") Economía doméstica
+                      td(style="background-color: #FFFAF4; width: 20%;") Economía doméstica.
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 690
-                      td(style="background-color: #FFFAF4; width: 20%;") Construcciones
+                      td(style="background-color: #FFFAF4; width: 20%;") Construcciones.
                     tr
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 650
-                      td(style="background-color: #FFFAF4; width: 20%;") Servicios administrativos empresariales
+                      td(style="background-color: #FFFAF4; width: 20%;") Servicios administrativos empresariales.
                       td(style="background-color: #FFF0DE; width: 5%;").text-center
                       td(style="background-color: #FFFAF4; width: 20%;")
             .row.justify-content-center
@@ -585,27 +585,27 @@
                   tbody
                     tr
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 710
-                      td(style="background-color: #FFFAF4; width: 20%;") Urbanismo y arquitectura del paisaje
+                      td(style="background-color: #FFFAF4; width: 20%;") Urbanismo y arquitectura del paisaje.
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 760
-                      td(style="background-color: #FFFAF4; width: 20%;") Artes gráficas, grabados
+                      td(style="background-color: #FFFAF4; width: 20%;") Artes gráficas, grabados.
                     tr
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 720
-                      td(style="background-color: #FFFAF4; width: 20%;") Arquitectura
+                      td(style="background-color: #FFFAF4; width: 20%;") Arquitectura.
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 770
-                      td(style="background-color: #FFFAF4; width: 20%;") Fotografía y fotografías
+                      td(style="background-color: #FFFAF4; width: 20%;") Fotografía y fotografías.
                     tr
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 730
-                      td(style="background-color: #FFFAF4; width: 20%;") Artes plásticas, escultura
+                      td(style="background-color: #FFFAF4; width: 20%;") Artes plásticas, escultura.
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 780
-                      td(style="background-color: #FFFAF4; width: 20%;") Música
+                      td(style="background-color: #FFFAF4; width: 20%;") Música.
                     tr
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 740
-                      td(style="background-color: #FFFAF4; width: 20%;") Dibujo, artes decorativas y menores
+                      td(style="background-color: #FFFAF4; width: 20%;") Dibujo, artes decorativas y menores.
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 790
-                      td(style="background-color: #FFFAF4; width: 20%;") Entretenimiento
+                      td(style="background-color: #FFFAF4; width: 20%;") Entretenimiento.
                     tr
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 750
-                      td(style="background-color: #FFFAF4; width: 20%;") Pintura y pinturas
+                      td(style="background-color: #FFFAF4; width: 20%;") Pintura y pinturas.
                       td(style="background-color: #FFF0DE; width: 5%;").text-center
                       td(style="background-color: #FFFAF4; width: 20%;")
             .row.justify-content-center
@@ -616,27 +616,27 @@
                   tbody
                     tr
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 810
-                      td(style="background-color: #FFFAF4; width: 20%;") Literatura norteamericana en inglés
+                      td(style="background-color: #FFFAF4; width: 20%;") Literatura norteamericana en inglés.
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 860
-                      td(style="background-color: #FFFAF4; width: 20%;") Literatura española y portuguesa
+                      td(style="background-color: #FFFAF4; width: 20%;") Literatura española y portuguesa.
                     tr
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 820
-                      td(style="background-color: #FFFAF4; width: 20%;") Literatura inglesa e inglesa antigua
+                      td(style="background-color: #FFFAF4; width: 20%;") Literatura inglesa e inglesa antigua.
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 870
-                      td(style="background-color: #FFFAF4; width: 20%;") Literaturas itálicas, Literatura latina
+                      td(style="background-color: #FFFAF4; width: 20%;") Literaturas itálicas, Literatura latina.
                     tr
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 830
-                      td(style="background-color: #FFFAF4; width: 20%;") Literatura de las lenguas germánicas
+                      td(style="background-color: #FFFAF4; width: 20%;") Literatura de las lenguas germánicas.
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 880
-                      td(style="background-color: #FFFAF4; width: 20%;") Literaturas helénicas, Literatura griega clásica
+                      td(style="background-color: #FFFAF4; width: 20%;") Literaturas helénicas, Literatura griega clásica.
                     tr
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 840
-                      td(style="background-color: #FFFAF4; width: 20%;") Literaturas de las lenguas romances
+                      td(style="background-color: #FFFAF4; width: 20%;") Literaturas de las lenguas romances.
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 890
-                      td(style="background-color: #FFFAF4; width: 20%;") Literatura de otras lenguas
+                      td(style="background-color: #FFFAF4; width: 20%;") Literatura de otras lenguas.
                     tr
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 850
-                      td(style="background-color: #FFFAF4; width: 20%;") Literaturas italiana, rumana, retorromana
+                      td(style="background-color: #FFFAF4; width: 20%;") Literaturas italiana, rumana, retorromana.
                       td(style="background-color: #FFF0DE; width: 5%;").text-center
                       td(style="background-color: #FFFAF4; width: 20%;")
             .row.justify-content-center
@@ -647,27 +647,27 @@
                   tbody
                     tr
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 910
-                      td(style="background-color: #FFFAF4; width: 20%;") Geografía, viajes
+                      td(style="background-color: #FFFAF4; width: 20%;") Geografía, viajes.
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 960
-                      td(style="background-color: #FFFAF4; width: 20%;") Historia de áfrica
+                      td(style="background-color: #FFFAF4; width: 20%;") Historia de áfrica.
                     tr
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 920
-                      td(style="background-color: #FFFAF4; width: 20%;") Biografía y genealogía
+                      td(style="background-color: #FFFAF4; width: 20%;") Biografía y genealogía.
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 970
-                      td(style="background-color: #FFFAF4; width: 20%;") Historia de América del Norte
+                      td(style="background-color: #FFFAF4; width: 20%;") Historia de América del Norte.
                     tr
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 930
-                      td(style="background-color: #FFFAF4; width: 20%;") Historia del mundo antiguo
+                      td(style="background-color: #FFFAF4; width: 20%;") Historia del mundo antiguo.
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 980
-                      td(style="background-color: #FFFAF4; width: 20%;") Historia de América del Sur
+                      td(style="background-color: #FFFAF4; width: 20%;") Historia de América del Sur.
                     tr
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 940
-                      td(style="background-color: #FFFAF4; width: 20%;") Historia de Europa
+                      td(style="background-color: #FFFAF4; width: 20%;") Historia de Europa.
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 990
-                      td(style="background-color: #FFFAF4; width: 20%;") Historia de otras regiones
+                      td(style="background-color: #FFFAF4; width: 20%;") Historia de otras regiones.
                     tr
                       td(style="background-color: #FFF0DE; width: 5%;").text-center 950
-                      td(style="background-color: #FFFAF4; width: 20%;") Historia de Asia
+                      td(style="background-color: #FFFAF4; width: 20%;") Historia de Asia.
                       td(style="background-color: #FFF0DE; width: 5%;").text-center
                       td(style="background-color: #FFFAF4; width: 20%;")
 

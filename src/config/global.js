@@ -212,7 +212,7 @@ export default {
     {
       termino: 'Ficha bibliográfica',
       significado:
-        'cúmulo de datos que describen una obra. Siempre incluye título, autor y fecha entre otras cosas. Existen numerosos formatos. La más usada es la norma APA (American Psychological Association). Para aprender a hacer fichas bibliográficas en estos formatos.',
+        'cúmulo de datos que describen una obra. Siempre incluye título, autor y fecha, entre otras cosas. Existen numerosos formatos. La más usada es la norma APA (American Psychological Association). Para aprender a hacer fichas bibliográficas en estos formatos.',
     },
     {
       termino: 'Sistema decimal Dewey',

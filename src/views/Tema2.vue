@@ -34,7 +34,7 @@
             | Elaborar los datos de forma eficiente según sea necesario.
           li
             <i class="fas fa-chevron-right" style="color:#FD9827"></i>
-            | Permitir la integración de distintos conjuntos de datos, aumentando así su utilidad general .
+            | Permitir la integración de distintos conjuntos de datos, aumentando así su utilidad general.
 
     p Entre los principales tipos de informes digitales, en el contexto de las bibliotecas, se pueden mencionar los que se detallan a continuación.
 
